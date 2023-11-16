@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Flask Marshmallow**
 
-- 🤝 I’m looking for help with [Flask-Api](https://github.com/staufique/excel_data_to_postgre_sql)
+- 🤝 I’m looking for help with [excel_data_to_postgre_sql](https://github.com/staufique/excel_data_to_postgre_sql)
 
 - 💬 Ask me about **python, django, flask, html/css and js**
 
