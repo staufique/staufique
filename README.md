@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Flask-Blog-App](https://github.com/staufique/Flask-Blog-App.git)
 
-- 🌱 I’m currently learning **Flask Marshmallow**
+- 🌱 I’m currently learning **Angular**
 
 - 🤝 I’m looking for help with [excel_data_to_postgre_sql](https://github.com/staufique/excel_data_to_postgre_sql)
 
