@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=staufique&label=Profile%20views&color=0e75b6&style=flat" alt="staufique" /> </p>
 
-- 🔭 I’m currently working on [Flask-Blog-App](https://github.com/staufique/OpenCv_Projects.git)
+- 🔭 I’m currently working on [OMR-Scanner](https://github.com/staufique/OpenCv_Projects.git)
 
 - 🌱 I’m currently learning **OpenCV**
 
