@@ -8,11 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=staufique&label=Profile%20views&color=0e75b6&style=flat" alt="staufique" /> </p>
 
-- 🔭 I’m currently working on [Flask-Blog-App](https://github.com/staufique/Flask-Blog-App.git)
+- 🔭 I’m currently working on [Flask-Blog-App](https://github.com/staufique/OpenCv_Projects.git)
 
-- 🌱 I’m currently learning **Angular**
-
-- 🤝 I’m looking for help with [excel_data_to_postgre_sql](https://github.com/staufique/excel_data_to_postgre_sql)
+- 🌱 I’m currently learning **OpenCV**
 
 - 💬 Ask me about **python, django, flask, html/css and js**
 
